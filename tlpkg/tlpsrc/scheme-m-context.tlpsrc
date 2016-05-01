@@ -1,0 +1,8 @@
+category Scheme
+shortdesc TLM ConTeXt scheme
+longdesc This is the TeX Live scheme for installing ConTeXt.
+
+depend context
+# dependencies anyway
+depend luatex
+depend metapost
